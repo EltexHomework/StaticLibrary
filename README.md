@@ -85,4 +85,5 @@ Enter option: 5
 ```
 
 ## Демонстрация работы программ
+![image](https://github.com/EltexHomework/StaticLibrary/assets/70006380/4ce850c3-785e-487a-824e-ec353c015249)
 
